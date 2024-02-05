@@ -1,5 +1,7 @@
 package net.donaldduckith.betaorigins;
 
+import net.donaldduckith.betaorigins.block.ModBlocks;
+import net.donaldduckith.betaorigins.item.ModItemGroups;
 import net.donaldduckith.betaorigins.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
@@ -13,6 +15,8 @@ public class BetaOrigins implements ModInitializer {
 	@Override
 	public void onInitialize() {
 
+		ModItemGroups.registerItemGroups();
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 	}
 }
