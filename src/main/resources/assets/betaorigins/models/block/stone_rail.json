@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/rail_flat",
   "textures": {
-    "rail": "betaorigins:block/rail"
+    "rail": "betaorigins:block/stone_rail"
   }
 }
