@@ -1,0 +1,9 @@
+// 1.20.1	2024-02-06T21:32:13.126030009	Beta Origins/Recipes
+def44e02ee992a365fa99f6b62d24bc4050a8bde data/betaorigins/advancements/recipes/misc/compressed_stone.json
+0e4b47dd79f5113982d1da40839889dc7348ebe6 data/betaorigins/recipes/stone.json
+337ab38e01432b6bf32d20b64cf9ca9cda71672c data/betaorigins/advancements/recipes/building_blocks/stone.json
+03acf78753bf8ed25380e11959e39139eb3670b4 data/betaorigins/advancements/recipes/misc/stone_stick.json
+8797ca6416fdec345151acfdf13b707e9af28834 data/betaorigins/recipes/compressed_stone.json
+c17c82925ffe96f2595f5fccbd82f28fbd1269ac data/betaorigins/advancements/recipes/combat/stone_arrow.json
+07e0cb580e914574d2431fd22629d1f9649c7c02 data/betaorigins/recipes/stone_arrow.json
+2ad3d980d456a00528c8124b2db7d51118798756 data/betaorigins/recipes/stone_stick.json

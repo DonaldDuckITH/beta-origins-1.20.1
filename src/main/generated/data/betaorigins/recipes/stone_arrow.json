@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "minecraft:flint"
+    },
+    "F": {
+      "item": "minecraft:feather"
+    },
+    "S": {
+      "item": "betaorigins:stone_stick"
+    }
+  },
+  "pattern": [
+    "#",
+    "S",
+    "F"
+  ],
+  "result": {
+    "count": 4,
+    "item": "betaorigins:stone_arrow"
+  },
+  "show_notification": true
+}
