@@ -8,4 +8,6 @@ public class BetaOriginsDataGenerator implements DataGeneratorEntrypoint {
 	public void onInitializeDataGenerator(FabricDataGenerator fabricDataGenerator) {
 
 	}
+
+
 }

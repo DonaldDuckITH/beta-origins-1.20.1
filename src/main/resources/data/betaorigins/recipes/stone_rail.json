@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "# #",
+    "#S#",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:iron_ingot"
+    },
+    "S": {
+      "item": "betaorigins:stone_stick"
+    }
+  },
+  "result": {
+    "item": "betaorigins:stone_rail",
+    "count": 16
+  }
+}

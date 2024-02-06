@@ -19,6 +19,7 @@ public class ModItemGroups {
                         entries.add(ModItems.STONE_ARROW);
 
                         entries.add(ModBlocks.STONE_RAIL);
+                        entries.add(ModBlocks.COMPRESSED_STONE);
 
                     }).build());
 

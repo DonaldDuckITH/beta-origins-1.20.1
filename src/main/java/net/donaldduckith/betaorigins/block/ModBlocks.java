@@ -10,11 +10,14 @@ import net.minecraft.item.BlockItem;
 import net.minecraft.item.Item;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
+import net.minecraft.sound.BlockSoundGroup;
 import net.minecraft.util.Identifier;
 
 public class ModBlocks {
     public static final Block STONE_RAIL = registerBlock("stone_rail",
-            new RailBlock(FabricBlockSettings.copyOf(Blocks.RAIL)));
+            new RailBlock(FabricBlockSettings.copyOf(Blocks.RAIL).nonOpaque()));
+    public static final Block COMPRESSED_STONE = registerBlock("compressed_stone",
+            new Block(FabricBlockSettings.copyOf(Blocks.STONE).sounds(BlockSoundGroup.ANCIENT_DEBRIS)));
 
     private static Block registerBlock(String name, Block block) {
         registerBlockItem(name, block);

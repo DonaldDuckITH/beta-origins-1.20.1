@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "sticks",
+  "pattern": [
+    "#",
+    "#"
+  ],
+  "key": {
+    "#": [
+      {
+        "tag": "minecraft:stone_crafting_materials"
+      },
+      {
+        "item": "minecraft:stone"
+      },
+      {
+        "item": "minecraft:granite"
+      },
+      {
+        "item": "minecraft:andesite"
+      },
+      {
+        "item": "minecraft:diorite"
+      },
+      {
+        "item": "minecraft:calcite"
+      },
+      {
+        "item": "minecraft:tuff"
+      },
+      {
+        "item": "minecraft:dripstone_block"
+      }
+    ]
+  },
+  "result": {
+    "item": "betaorigins:stone_stick",
+    "count": 4
+  }
+}
