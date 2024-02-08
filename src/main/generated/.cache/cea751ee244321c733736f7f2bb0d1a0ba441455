@@ -1,3 +1,10 @@
-// 1.20.1	2024-02-06T21:32:13.130279621	Beta Origins/Block Loot Tables
+// 1.20.1	2024-02-08T18:10:41.443831984	Beta Origins/Block Loot Tables
+f162cc00d8c52d9d6c49a95805ed037662a5a72e data/betaorigins/loot_tables/blocks/stone_powered_rail.json
+aaee66816347930ecbc0290f3f8148431c1e4df1 data/betaorigins/loot_tables/blocks/stone_soul_torch.json
+50a6f89305a5205fb47d10bf65bb7c78813db246 data/betaorigins/loot_tables/blocks/stone_torch.json
 9d5b6e0d77d5b27c4df359ada51ae171dce02f80 data/betaorigins/loot_tables/blocks/stone_rail.json
-5d45029787b905f51cbb976622f4e1c772f331db data/betaorigins/loot_tables/blocks/compressed_stone.json
+3b878b94ee45cca4d14a5d8399e1767cc4448f80 data/betaorigins/loot_tables/blocks/stone_comparator.json
+beed9a305ca5a110540350f06854424d8c6c5ee7 data/betaorigins/loot_tables/blocks/stone_activator_rail.json
+e9e75f36293d97c6b2df100a8ebf5e6d902d0d4d data/betaorigins/loot_tables/blocks/stone_redstone_torch.json
+d890fc25ad873156f8acdf393eaa780d4b7d7fb9 data/betaorigins/loot_tables/blocks/stone_repeater.json
+32845820b3b1476874a5950f4fc7361f70fd4c67 data/betaorigins/loot_tables/blocks/stone_detector_rail.json

@@ -18,8 +18,54 @@ public class ModItemGroups {
                         entries.add(ModItems.STONE_STICK);
                         entries.add(ModItems.STONE_ARROW);
 
+                        entries.add(ModItems.STONE_REPEATER_ITEM);
+                        entries.add(ModItems.STONE_COMPARATOR_ITEM);
+
+                        entries.add(ModBlocks.STONE_TORCH);
+                        entries.add(ModBlocks.STONE_SOUL_TORCH);
+                        entries.add(ModBlocks.STONE_REDSTONE_TORCH);
+
                         entries.add(ModBlocks.STONE_RAIL);
-                        entries.add(ModBlocks.COMPRESSED_STONE);
+                        entries.add(ModBlocks.STONE_POWERED_RAIL);
+                        entries.add(ModBlocks.STONE_DETECTOR_RAIL);
+                        entries.add(ModBlocks.STONE_ACTIVATOR_RAIL);
+
+                        entries.add(ModItems.STONE_WOODEN_AXE);
+                        entries.add(ModItems.STONE_WOODEN_HOE);
+                        entries.add(ModItems.STONE_WOODEN_PICKAXE);
+                        entries.add(ModItems.STONE_WOODEN_SHOVEL);
+                        entries.add(ModItems.STONE_WOODEN_SWORD);
+
+                        entries.add(ModItems.STONE_STONE_AXE);
+                        entries.add(ModItems.STONE_STONE_HOE);
+                        entries.add(ModItems.STONE_STONE_PICKAXE);
+                        entries.add(ModItems.STONE_STONE_SHOVEL);
+                        entries.add(ModItems.STONE_STONE_SWORD);
+
+                        entries.add(ModItems.STONE_IRON_AXE);
+                        entries.add(ModItems.STONE_IRON_HOE);
+                        entries.add(ModItems.STONE_IRON_PICKAXE);
+                        entries.add(ModItems.STONE_IRON_SHOVEL);
+                        entries.add(ModItems.STONE_IRON_SWORD);
+
+                        entries.add(ModItems.STONE_DIAMOND_AXE);
+                        entries.add(ModItems.STONE_DIAMOND_HOE);
+                        entries.add(ModItems.STONE_DIAMOND_PICKAXE);
+                        entries.add(ModItems.STONE_DIAMOND_SHOVEL);
+                        entries.add(ModItems.STONE_DIAMOND_SWORD);
+
+                        entries.add(ModItems.STONE_GOLD_AXE);
+                        entries.add(ModItems.STONE_GOLD_HOE);
+                        entries.add(ModItems.STONE_GOLD_PICKAXE);
+                        entries.add(ModItems.STONE_GOLD_SHOVEL);
+                        entries.add(ModItems.STONE_GOLD_SWORD);
+
+                        entries.add(ModItems.STONE_NETHERITE_AXE);
+                        entries.add(ModItems.STONE_NETHERITE_HOE);
+                        entries.add(ModItems.STONE_NETHERITE_PICKAXE);
+                        entries.add(ModItems.STONE_NETHERITE_SHOVEL);
+                        entries.add(ModItems.STONE_NETHERITE_SWORD);
+
 
                     }).build());
 

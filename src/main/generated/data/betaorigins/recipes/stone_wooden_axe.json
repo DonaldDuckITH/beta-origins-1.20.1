@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "tag": "minecraft:planks"
+    },
+    "S": {
+      "item": "betaorigins:stone_stick"
+    }
+  },
+  "pattern": [
+    "##",
+    "#S",
+    " S"
+  ],
+  "result": {
+    "item": "betaorigins:stone_wooden_axe"
+  },
+  "show_notification": true
+}

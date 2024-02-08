@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "betaorigins:item/stone_repeater_item"
+  }
+}

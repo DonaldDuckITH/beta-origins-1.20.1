@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "minecraft:diamond"
+    },
+    "S": {
+      "item": "betaorigins:stone_stick"
+    }
+  },
+  "pattern": [
+    "##",
+    "#S",
+    " S"
+  ],
+  "result": {
+    "item": "betaorigins:stone_diamond_axe"
+  },
+  "show_notification": true
+}

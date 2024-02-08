@@ -1,7 +1,6 @@
 {
   "replace": false,
   "values": [
-    "betaorigins:stone_rail",
-    "betaorigins:compressed_stone"
+    "betaorigins:stone_rail"
   ]
 }

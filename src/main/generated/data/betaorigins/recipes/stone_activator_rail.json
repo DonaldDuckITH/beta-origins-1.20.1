@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:iron_ingot"
+    },
+    "S": {
+      "item": "betaorigins:stone_stick"
+    },
+    "T": {
+      "tag": "betaorigins:redstone_torches"
+    }
+  },
+  "pattern": [
+    "#S#",
+    "#T#",
+    "#S#"
+  ],
+  "result": {
+    "count": 4,
+    "item": "betaorigins:stone_activator_rail"
+  },
+  "show_notification": true
+}

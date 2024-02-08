@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_torch",
+  "textures": {
+    "torch": "betaorigins:block/stone_redstone_torch"
+  }
+}

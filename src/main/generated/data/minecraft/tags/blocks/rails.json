@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "betaorigins:stone_rail",
+    "betaorigins:stone_powered_rail",
+    "betaorigins:stone_detector_rail",
+    "betaorigins:stone_activator_rail"
+  ]
+}

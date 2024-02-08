@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/rail_flat",
+  "textures": {
+    "rail": "betaorigins:block/stone_detector_rail_on"
+  }
+}

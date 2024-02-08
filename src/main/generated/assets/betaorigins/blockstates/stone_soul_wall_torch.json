@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "betaorigins:block/stone_soul_wall_torch"
+    },
+    "facing=north": {
+      "model": "betaorigins:block/stone_soul_wall_torch",
+      "y": 270
+    },
+    "facing=south": {
+      "model": "betaorigins:block/stone_soul_wall_torch",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "betaorigins:block/stone_soul_wall_torch",
+      "y": 180
+    }
+  }
+}

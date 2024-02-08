@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "betaorigins:stone_redstone_torch_item",
+    "minecraft:redstone_torch"
+  ]
+}

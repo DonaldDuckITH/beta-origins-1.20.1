@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:gold_ingot"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "S": {
+      "item": "betaorigins:stone_stick"
+    }
+  },
+  "pattern": [
+    "# #",
+    "#S#",
+    "#R#"
+  ],
+  "result": {
+    "count": 4,
+    "item": "betaorigins:stone_powered_rail"
+  },
+  "show_notification": true
+}

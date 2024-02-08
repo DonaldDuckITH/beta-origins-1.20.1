@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=true": {
+      "model": "betaorigins:block/stone_redstone_torch"
+    },
+    "lit=false": {
+      "model": "betaorigins:block/stone_redstone_torch_off"
+    }
+  }
+}

@@ -20,6 +20,8 @@ public class ModTags {
                 createTag("stone_sticks_craftable");
         public static final TagKey<Item> STONE_STICKS_CRAFTING_MATERIALS =
                 createTag("stone_sticks_crafting_materials");
+        public static final TagKey<Item> REDSTONE_TORCHES =
+                createTag("redstone_torches");
         public static TagKey<Item> createTag(String name) {
             return TagKey.of(RegistryKeys.ITEM, new Identifier(BetaOrigins.MOD_ID, name));
         }
