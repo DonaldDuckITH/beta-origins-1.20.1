@@ -3,7 +3,7 @@
 	"package": "net.donaldduckith.betaorigins.mixin",
 	"compatibilityLevel": "JAVA_17",
 	"mixins": [
-		"MinecartMixin"
+      "AbstractMinecartMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1

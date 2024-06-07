@@ -19,6 +19,10 @@ public class ModBlockTagProvider extends FabricTagProvider.BlockTagProvider {
 
     @Override
     protected void configure(RegistryWrapper.WrapperLookup arg) {
+        getOrCreateTagBuilder(BlockTags.PICKAXE_MINEABLE).add(ModBlocks.STONE_RAIL);
+
+        getOrCreateTagBuilder(ModTags.Blocks.POWERED_RAILS).add(ModBlocks.STONE_POWERED_RAIL).add(Blocks.POWERED_RAIL);
+
         getOrCreateTagBuilder(BlockTags.RAILS).add(ModBlocks.STONE_RAIL);
         getOrCreateTagBuilder(BlockTags.RAILS).add(ModBlocks.STONE_POWERED_RAIL);
         getOrCreateTagBuilder(BlockTags.RAILS).add(ModBlocks.STONE_DETECTOR_RAIL);

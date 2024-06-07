@@ -45,8 +45,9 @@ public class ModRecipeProvider extends FabricRecipeProvider {
                 .input('F', Items.FEATHER)
                 .criterion(hasItem(Items.FEATHER), conditionsFromItem(Items.FEATHER))
                 .criterion(hasItem(Items.FLINT), conditionsFromItem(Items.FLINT))
+                .criterion(hasItem(ModItems.STONE_STICK), conditionsFromItem(ModItems.STONE_STICK))
                 .offerTo(exporter, new Identifier(getRecipeName(ModItems.STONE_ARROW)));
-        ShapedRecipeJsonBuilder.create(RecipeCategory.TRANSPORTATION, ModBlocks.STONE_RAIL, 16)
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModBlocks.STONE_RAIL, 4)
                 .pattern("# #")
                 .pattern("#S#")
                 .pattern("# #")
@@ -55,7 +56,7 @@ public class ModRecipeProvider extends FabricRecipeProvider {
                 .criterion(hasItem(ModItems.STONE_STICK), conditionsFromItem(ModItems.STONE_STICK))
                 .criterion(hasItem(Items.IRON_INGOT), conditionsFromItem(Items.IRON_INGOT))
                 .offerTo(exporter, new Identifier(getRecipeName(ModBlocks.STONE_RAIL)));
-        ShapedRecipeJsonBuilder.create(RecipeCategory.TRANSPORTATION, ModBlocks.STONE_POWERED_RAIL, 6)
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModBlocks.STONE_POWERED_RAIL, 4)
                 .pattern("# #")
                 .pattern("#S#")
                 .pattern("#R#")
@@ -66,7 +67,7 @@ public class ModRecipeProvider extends FabricRecipeProvider {
                 .criterion(hasItem(Items.GOLD_INGOT), conditionsFromItem(Items.GOLD_INGOT))
                 .criterion(hasItem(Items.REDSTONE), conditionsFromItem(Items.REDSTONE))
                 .offerTo(exporter, new Identifier(getRecipeName(ModBlocks.STONE_POWERED_RAIL)));
-        ShapedRecipeJsonBuilder.create(RecipeCategory.TRANSPORTATION, ModBlocks.STONE_DETECTOR_RAIL, 6)
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModBlocks.STONE_DETECTOR_RAIL, 4)
                 .pattern("#P#")
                 .pattern("#S#")
                 .pattern("#R#")
@@ -74,17 +75,19 @@ public class ModRecipeProvider extends FabricRecipeProvider {
                 .input('S', ModItems.STONE_STICK)
                 .input('P', Items.STONE_PRESSURE_PLATE)
                 .input('R', Items.REDSTONE)
+                .criterion(hasItem(ModItems.STONE_STICK), conditionsFromItem(ModItems.STONE_STICK))
                 .criterion(hasItem(Items.IRON_INGOT), conditionsFromItem(Items.IRON_INGOT))
                 .criterion(hasItem(Items.STONE_PRESSURE_PLATE), conditionsFromItem(Items.STONE_PRESSURE_PLATE))
                 .criterion(hasItem(Items.REDSTONE), conditionsFromItem(Items.REDSTONE))
                 .offerTo(exporter, new Identifier(getRecipeName(ModBlocks.STONE_DETECTOR_RAIL)));
-        ShapedRecipeJsonBuilder.create(RecipeCategory.TRANSPORTATION, ModBlocks.STONE_ACTIVATOR_RAIL, 6)
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModBlocks.STONE_ACTIVATOR_RAIL, 4)
                 .pattern("#S#")
                 .pattern("#T#")
                 .pattern("#S#")
                 .input('#', Items.IRON_INGOT)
                 .input('S', ModItems.STONE_STICK)
                 .input('T', ModTags.Items.REDSTONE_TORCHES)
+                .criterion(hasItem(ModItems.STONE_STICK), conditionsFromItem(ModItems.STONE_STICK))
                 .criterion(hasItem(Items.IRON_INGOT), conditionsFromItem(Items.IRON_INGOT))
                 .criterion(hasItem(Items.REDSTONE_TORCH), conditionsFromItem(Items.REDSTONE_TORCH))
                 .criterion(hasItem(ModBlocks.STONE_REDSTONE_TORCH.asItem()), conditionsFromItem(ModBlocks.STONE_REDSTONE_TORCH.asItem()))
@@ -151,13 +154,6 @@ public class ModRecipeProvider extends FabricRecipeProvider {
         offerNetheriteUpgradeRecipe(exporter, ModItems.STONE_DIAMOND_PICKAXE, RecipeCategory.TOOLS, ModItems.STONE_NETHERITE_PICKAXE);
         offerNetheriteUpgradeRecipe(exporter, ModItems.STONE_DIAMOND_SHOVEL, RecipeCategory.TOOLS, ModItems.STONE_NETHERITE_SHOVEL);
         offerNetheriteUpgradeRecipe(exporter, ModItems.STONE_DIAMOND_HOE, RecipeCategory.TOOLS, ModItems.STONE_NETHERITE_HOE);
-
-        ShapedRecipeJsonBuilder.create(RecipeCategory.TRANSPORTATION, ModBlocks.STONE_LADDER, 3)
-                .pattern("# #")
-                .pattern("###")
-                .pattern("# #")
-                .input('#', ModItems.STONE_STICK)
-                .criterion(hasItem(ModItems.STONE_STICK), conditionsFromItem(ModItems.STONE_STICK));
     }
 }
 

@@ -1,4 +1,4 @@
-// 1.20.1	2024-02-08T18:10:41.43650671	Beta Origins/Recipes
+// 1.20.1	2024-02-08T20:17:12.294986125	Beta Origins/Recipes
 3eeebc98613b6d16dc6d125ee0114b408ed7f180 data/betaorigins/advancements/recipes/tools/stone_wooden_shovel.json
 a677fc9d957586e80c720302b5078b7fb2180e2b data/betaorigins/recipes/stone_iron_hoe.json
 7b6c846e12646a54becce12d09ba0cd5f00beb71 data/betaorigins/recipes/stone_stone_sword.json
@@ -26,8 +26,8 @@ a6f351677ba2508a2b7d957fef1fc9046f091ebf data/betaorigins/recipes/stone_rail.jso
 cb84c6ac9a8ed94781b01264ac4786c946df30dc data/betaorigins/advancements/recipes/tools/stone_stone_pickaxe.json
 d2ecac41e918e36521b7492bb4a2ea16a2b6dbed data/betaorigins/advancements/recipes/tools/stone_diamond_shovel.json
 aa25857eb0b3022a83a2d542ac03b476e8469ded data/betaorigins/advancements/recipes/combat/stone_gold_sword.json
-8e0b67d0716853866ee08667d6870c1e35ab8601 data/betaorigins/advancements/recipes/tools/stone_wooden_hoe.json
 630a8525b8768d80bb239dc0957e53790618fcbf data/betaorigins/advancements/recipes/tools/stone_wooden_axe.json
+8e0b67d0716853866ee08667d6870c1e35ab8601 data/betaorigins/advancements/recipes/tools/stone_wooden_hoe.json
 0c750d9e53a0e42b42351955c36a38241ebde044 data/betaorigins/advancements/recipes/tools/stone_gold_pickaxe.json
 d519bd395a59b31dbfbef3433269b1c0086c2c35 data/betaorigins/advancements/recipes/tools/stone_iron_hoe.json
 a97148323044166546528828eb1fcdb1c8ed6626 data/betaorigins/advancements/recipes/tools/stone_iron_pickaxe.json
@@ -48,8 +48,8 @@ fd96d758da7823c3e6b87d9faffd01ea5df8708a data/betaorigins/recipes/stone_netherit
 f89bb33661d9a47547b9218b3f43a517aeab1e37 data/betaorigins/advancements/recipes/combat/stone_arrow.json
 b6957e756ff21054d5021ea650b0da20fb9a22de data/betaorigins/advancements/recipes/tools/stone_gold_axe.json
 820999f2c89b2206c90b62ad5a3b2bd9166c3200 data/betaorigins/advancements/recipes/misc/stone_activator_rail.json
-d5a01ef94dd3896eae99909905c5f679ccc9341a data/betaorigins/recipes/stone_netherite_shovel_smithing.json
 b87379ce69231fc3e0d3f874357cd157db690d1a data/betaorigins/recipes/stone_iron_pickaxe.json
+d5a01ef94dd3896eae99909905c5f679ccc9341a data/betaorigins/recipes/stone_netherite_shovel_smithing.json
 1ab8c2eb0ae0d8b8ff61340cc5b7287770f2d0ac data/betaorigins/recipes/stone_wooden_hoe.json
 200f2992fb7a69986fadac265720fb1dd4207411 data/betaorigins/advancements/recipes/tools/stone_stone_axe.json
 744a0fd3391dc3b89bf4595e397913c7bf8be0a9 data/betaorigins/recipes/stone_wooden_pickaxe.json

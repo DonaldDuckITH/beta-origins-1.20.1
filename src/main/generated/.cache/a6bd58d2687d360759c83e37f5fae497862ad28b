@@ -1,4 +1,4 @@
-// 1.20.1	2024-02-08T18:10:41.446805246	Beta Origins/Model Definitions
+// 1.20.1	2024-02-08T20:17:12.300928113	Beta Origins/Model Definitions
 2f62a79f8df8580c2e8ba2ebf5204732c80f8718 assets/betaorigins/models/block/stone_soul_torch.json
 55808313ced29fee1938eab5fc86fcdf6ecbefbf assets/betaorigins/blockstates/stone_soul_torch.json
 26809a814b284e71e8d191e80cb135a80258c51d assets/betaorigins/models/block/stone_rail.json
@@ -80,6 +80,6 @@ f67e71e7f877fad3b97b3a425e96bf12991d9bb5 assets/betaorigins/models/block/stone_p
 33aa44d91292e05952acf8ad6cbd8b811253335b assets/betaorigins/models/item/stone_diamond_sword.json
 1ab7bcd1b534900b7022b3bd0e8211e5103e93c1 assets/betaorigins/models/block/stone_rail_corner.json
 1d0f63d822b99b477701cedb8a16f1906a6b3233 assets/betaorigins/models/item/stone_iron_hoe.json
-d8fc9f67d460896693a005eec45cc107dd4c8409 assets/betaorigins/blockstates/stone_wall_torch.json
 1fcbc37f592113b28613ef177c09feff40646bd9 assets/betaorigins/blockstates/stone_redstone_torch.json
+d8fc9f67d460896693a005eec45cc107dd4c8409 assets/betaorigins/blockstates/stone_wall_torch.json
 b331afe017346d7695f309fa11bf795c139f00b0 assets/betaorigins/models/item/stone_wooden_pickaxe.json

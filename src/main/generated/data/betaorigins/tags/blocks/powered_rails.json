@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "betaorigins:stone_powered_rail",
+    "minecraft:powered_rail"
+  ]
+}

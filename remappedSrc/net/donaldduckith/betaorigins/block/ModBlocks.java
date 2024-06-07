@@ -35,9 +35,6 @@ public class ModBlocks {
     public static final Block STONE_REDSTONE_TORCH_OFF = registerBlock("stone_redstone_torch_off", new RedstoneTorchBlock(FabricBlockSettings.copyOf(Blocks.REDSTONE_TORCH).nonOpaque().sounds(BlockSoundGroup.STONE)));
     public static final Block STONE_REDSTONE_WALL_TORCH_OFF = registerBlock("stone_redstone_wall_torch_off", new WallRedstoneTorchBlock(FabricBlockSettings.copyOf(Blocks.REDSTONE_WALL_TORCH).nonOpaque().dropsLike(STONE_REDSTONE_TORCH).sounds(BlockSoundGroup.STONE)));
 
-    public static final Block STONE_LADDER = registerBlock("stone_ladder", new LadderBlock(FabricBlockSettings.copyOf(Blocks.LADDER).nonOpaque().sounds(BlockSoundGroup.STONE)));
-    public static final Block STONE_TRIPWIRE_HOOK = registerBlock("stone_tripwire_hook", new TripwireHookBlock(FabricBlockSettings.copyOf(Blocks.TRIPWIRE_HOOK).nonOpaque().sounds(BlockSoundGroup.STONE)));
-    public static final Block STONE_LEVER = registerBlock("stone_lever", new LeverBlock(FabricBlockSettings.copyOf(Blocks.LEVER).nonOpaque().sounds(BlockSoundGroup.STONE)));
 
     private static Block registerBlock(String name, Block block) {
         registerBlockItem(name, block);
