@@ -2,5 +2,57 @@
   "item.betaorigins.stone_stick": "Stone Stick",
   "item.betaorigins.stone_arrow": "Stone Arrow",
 
+  "block.betaorigins.stone_repeater": "Stone Repeater",
+  "block.betaorigins.stone_comparator": "Stone Comparator",
+
+  "item.betaorigins.stone_wooden_axe": "Wooden Axe",
+  "item.betaorigins.stone_wooden_hoe": "Wooden Hoe",
+  "item.betaorigins.stone_wooden_pickaxe": "Wooden Pickaxe",
+  "item.betaorigins.stone_wooden_shovel": "Wooden Shovel",
+  "item.betaorigins.stone_wooden_sword": "Wooden Sword",
+
+  "item.betaorigins.stone_stone_axe": "Stone Axe",
+  "item.betaorigins.stone_stone_hoe": "Stone Hoe",
+  "item.betaorigins.stone_stone_pickaxe": "Stone Pickaxe",
+  "item.betaorigins.stone_stone_shovel": "Stone Shovel",
+  "item.betaorigins.stone_stone_sword": "Stone Sword",
+
+  "item.betaorigins.stone_iron_axe": "Iron Axe",
+  "item.betaorigins.stone_iron_hoe": "Iron Hoe",
+  "item.betaorigins.stone_iron_pickaxe": "Iron Pickaxe",
+  "item.betaorigins.stone_iron_shovel": "Iron Shovel",
+  "item.betaorigins.stone_iron_sword": "Iron Sword",
+
+  "item.betaorigins.stone_diamond_axe": "Diamond Axe",
+  "item.betaorigins.stone_diamond_hoe": "Diamond Hoe",
+  "item.betaorigins.stone_diamond_pickaxe": "Diamond Pickaxe",
+  "item.betaorigins.stone_diamond_shovel": "Diamond Shovel",
+  "item.betaorigins.stone_diamond_sword": "Diamond Sword",
+
+  "item.betaorigins.stone_gold_axe": "Gold Axe",
+  "item.betaorigins.stone_gold_hoe": "Gold Hoe",
+  "item.betaorigins.stone_gold_pickaxe": "Gold Pickaxe",
+  "item.betaorigins.stone_gold_shovel": "Gold Shovel",
+  "item.betaorigins.stone_gold_sword": "Gold Sword",
+
+  "item.betaorigins.stone_netherite_axe": "Netherite Axe",
+  "item.betaorigins.stone_netherite_hoe": "Netherite Hoe",
+  "item.betaorigins.stone_netherite_pickaxe": "Netherite Pickaxe",
+  "item.betaorigins.stone_netherite_shovel": "Netherite Shovel",
+  "item.betaorigins.stone_netherite_sword": "Netherite Sword",
+
+  "block.betaorigins.stone_rail": "Stone Rail",
+  "block.betaorigins.stone_powered_rail": "Stone Powered Rail",
+  "block.betaorigins.stone_detector_rail": "Stone Detector Rail",
+  "block.betaorigins.stone_activator_rail": "Stone Activator Rail",
+
+  "block.betaorigins.stone_torch": "Stone Torch",
+  "block.betaorigins.stone_soul_torch": "Stone Soul Torch",
+  "block.betaorigins.stone_redstone_torch": "Stone Redstone Torch",
+
+  "block.betaorigins.stone_ladder": "Stone Ladder",
+  "block.betaorigins.stone_lever": "Stone Lever",
+  "block.betaorigins.stone_tripwire_hook": "Stone Tripwire Hook",
+
   "itemgroup.betaorigins": "Beta Origins"
 }

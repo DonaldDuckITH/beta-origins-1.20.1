@@ -2,8 +2,6 @@
   "item.betaorigins.stone_stick": "Stone Stick",
   "item.betaorigins.stone_arrow": "Stone Arrow",
 
-  "item.betaorigins.stone_repeater_item": "Stone Repeater",
-  "item.betaorigins.stone_comparator_item": "Stone Comparator",
   "block.betaorigins.stone_repeater": "Stone Repeater",
   "block.betaorigins.stone_comparator": "Stone Comparator",
 
@@ -51,6 +49,10 @@
   "block.betaorigins.stone_torch": "Stone Torch",
   "block.betaorigins.stone_soul_torch": "Stone Soul Torch",
   "block.betaorigins.stone_redstone_torch": "Stone Redstone Torch",
+
+  "block.betaorigins.stone_ladder": "Stone Ladder",
+  "block.betaorigins.stone_lever": "Stone Lever",
+  "block.betaorigins.stone_tripwire_hook": "Stone Tripwire Hook",
 
   "itemgroup.betaorigins": "Beta Origins"
 }

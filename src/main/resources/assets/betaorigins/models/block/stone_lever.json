@@ -3,7 +3,7 @@
   "textures": {
     "particle": "block/cobblestone",
     "base": "block/cobblestone",
-    "lever": "block/stone_lever"
+    "lever": "betaorigins:block/stone_lever"
   },
   "elements": [
     {   "from": [ 5, -0.02, 4 ],

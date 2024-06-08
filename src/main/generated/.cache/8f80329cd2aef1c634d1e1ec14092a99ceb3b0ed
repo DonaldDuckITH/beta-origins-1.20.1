@@ -1,4 +1,4 @@
-// 1.20.1	2024-06-08T00:52:37.927475649	Beta Origins/Recipes
+// 1.20.1	2024-06-08T17:38:07.686502695	Beta Origins/Recipes
 3eeebc98613b6d16dc6d125ee0114b408ed7f180 data/betaorigins/advancements/recipes/tools/stone_wooden_shovel.json
 a677fc9d957586e80c720302b5078b7fb2180e2b data/betaorigins/recipes/stone_iron_hoe.json
 7b6c846e12646a54becce12d09ba0cd5f00beb71 data/betaorigins/recipes/stone_stone_sword.json
@@ -27,8 +27,8 @@ cb84c6ac9a8ed94781b01264ac4786c946df30dc data/betaorigins/advancements/recipes/t
 d2ecac41e918e36521b7492bb4a2ea16a2b6dbed data/betaorigins/advancements/recipes/tools/stone_diamond_shovel.json
 aa25857eb0b3022a83a2d542ac03b476e8469ded data/betaorigins/advancements/recipes/combat/stone_gold_sword.json
 7a0aba97e866de77aa0f64008157bebfca8ca5d0 data/betaorigins/advancements/recipes/transportation/stone_rail.json
-8e0b67d0716853866ee08667d6870c1e35ab8601 data/betaorigins/advancements/recipes/tools/stone_wooden_hoe.json
 630a8525b8768d80bb239dc0957e53790618fcbf data/betaorigins/advancements/recipes/tools/stone_wooden_axe.json
+8e0b67d0716853866ee08667d6870c1e35ab8601 data/betaorigins/advancements/recipes/tools/stone_wooden_hoe.json
 0c750d9e53a0e42b42351955c36a38241ebde044 data/betaorigins/advancements/recipes/tools/stone_gold_pickaxe.json
 d519bd395a59b31dbfbef3433269b1c0086c2c35 data/betaorigins/advancements/recipes/tools/stone_iron_hoe.json
 a97148323044166546528828eb1fcdb1c8ed6626 data/betaorigins/advancements/recipes/tools/stone_iron_pickaxe.json

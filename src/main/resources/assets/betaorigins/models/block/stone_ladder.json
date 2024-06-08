@@ -1,8 +1,8 @@
 {
   "ambientocclusion": false,
   "textures": {
-    "particle": "block/stone_ladder",
-    "texture": "block/stone_ladder"
+    "particle": "betaorigins:block/stone_ladder",
+    "texture": "betaorigins:block/stone_ladder"
   },
   "elements": [
     {   "from": [ 0, 0, 15.2 ],

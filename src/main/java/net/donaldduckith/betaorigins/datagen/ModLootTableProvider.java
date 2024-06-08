@@ -22,5 +22,21 @@ public class ModLootTableProvider extends FabricBlockLootTableProvider {
 
         addDrop(ModBlocks.STONE_REPEATER);
         addDrop(ModBlocks.STONE_COMPARATOR);
+
+        addDrop(ModBlocks.STONE_LADDER);
+        addDrop(ModBlocks.STONE_LEVER);
+        addDrop(ModBlocks.STONE_TRIPWIRE_HOOK);
+
+        addDrop(ModBlocks.STONE_OAK_SIGN);
+        addDrop(ModBlocks.STONE_SPRUCE_SIGN);
+        addDrop(ModBlocks.STONE_BIRCH_SIGN);
+        addDrop(ModBlocks.STONE_JUNGLE_SIGN);
+        addDrop(ModBlocks.STONE_ACACIA_SIGN);
+        addDrop(ModBlocks.STONE_DARK_OAK_SIGN);
+        addDrop(ModBlocks.STONE_CRIMSON_SIGN);
+        addDrop(ModBlocks.STONE_WARPED_SIGN);
+        addDrop(ModBlocks.STONE_MANGROVE_SIGN);
+        addDrop(ModBlocks.STONE_BAMBOO_SIGN);
+        addDrop(ModBlocks.STONE_CHERRY_SIGN);
     }
 }
