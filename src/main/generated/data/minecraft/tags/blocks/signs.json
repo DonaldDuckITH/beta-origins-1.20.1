@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "betaorigins:stone_oak_sign",
+    "betaorigins:stone_spruce_sign",
+    "betaorigins:stone_birch_sign",
+    "betaorigins:stone_jungle_sign",
+    "betaorigins:stone_acacia_sign",
+    "betaorigins:stone_dark_oak_sign",
+    "betaorigins:stone_crimson_sign",
+    "betaorigins:stone_warped_sign",
+    "betaorigins:stone_mangrove_sign",
+    "betaorigins:stone_bamboo_sign",
+    "betaorigins:stone_cherry_sign"
+  ]
+}

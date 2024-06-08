@@ -39,6 +39,18 @@ public class ModBlocks {
     public static final Block STONE_TRIPWIRE_HOOK = registerBlock("stone_tripwire_hook", new TripwireHookBlock(FabricBlockSettings.copyOf(Blocks.TRIPWIRE_HOOK).nonOpaque().sounds(BlockSoundGroup.STONE)));
     public static final Block STONE_LEVER = registerBlock("stone_lever", new LeverBlock(FabricBlockSettings.copyOf(Blocks.LEVER).nonOpaque().sounds(BlockSoundGroup.STONE)));
 
+    public static final Block STONE_OAK_SIGN = registerBlock("stone_oak_sign", new SignBlock(FabricBlockSettings.copyOf(Blocks.OAK_SIGN).nonOpaque().sounds(BlockSoundGroup.WOOD), WoodType.OAK));
+    public static final Block STONE_SPRUCE_SIGN = registerBlock("stone_spruce_sign", new SignBlock(FabricBlockSettings.copyOf(Blocks.SPRUCE_SIGN).nonOpaque().sounds(BlockSoundGroup.WOOD), WoodType.SPRUCE));
+    public static final Block STONE_BIRCH_SIGN = registerBlock("stone_birch_sign", new SignBlock(FabricBlockSettings.copyOf(Blocks.BIRCH_SIGN).nonOpaque().sounds(BlockSoundGroup.WOOD), WoodType.BIRCH));
+    public static final Block STONE_JUNGLE_SIGN = registerBlock("stone_jungle_sign", new SignBlock(FabricBlockSettings.copyOf(Blocks.JUNGLE_SIGN).nonOpaque().sounds(BlockSoundGroup.WOOD), WoodType.JUNGLE));
+    public static final Block STONE_ACACIA_SIGN = registerBlock("stone_acacia_sign", new SignBlock(FabricBlockSettings.copyOf(Blocks.ACACIA_SIGN).nonOpaque().sounds(BlockSoundGroup.WOOD), WoodType.ACACIA));
+    public static final Block STONE_DARK_OAK_SIGN = registerBlock("stone_dark_oak_sign", new SignBlock(FabricBlockSettings.copyOf(Blocks.DARK_OAK_SIGN).nonOpaque().sounds(BlockSoundGroup.WOOD), WoodType.DARK_OAK));
+    public static final Block STONE_CRIMSON_SIGN = registerBlock("stone_crimson_sign", new SignBlock(FabricBlockSettings.copyOf(Blocks.CRIMSON_SIGN).nonOpaque().sounds(BlockSoundGroup.WOOD), WoodType.CRIMSON));
+    public static final Block STONE_WARPED_SIGN = registerBlock("stone_warped_sign", new SignBlock(FabricBlockSettings.copyOf(Blocks.WARPED_SIGN).nonOpaque().sounds(BlockSoundGroup.WOOD), WoodType.WARPED));
+    public static final Block STONE_MANGROVE_SIGN = registerBlock("stone_mangrove_sign", new SignBlock(FabricBlockSettings.copyOf(Blocks.MANGROVE_SIGN).nonOpaque().sounds(BlockSoundGroup.WOOD), WoodType.MANGROVE));
+    public static final Block STONE_BAMBOO_SIGN = registerBlock("stone_bamboo_sign", new SignBlock(FabricBlockSettings.copyOf(Blocks.BAMBOO_SIGN).nonOpaque().sounds(BlockSoundGroup.WOOD), WoodType.BAMBOO));
+    public static final Block STONE_CHERRY_SIGN = registerBlock("stone_cherry_sign", new SignBlock(FabricBlockSettings.copyOf(Blocks.CHERRY_SIGN).nonOpaque().sounds(BlockSoundGroup.WOOD), WoodType.CHERRY));
+
     private static Block registerBlock(String name, Block block) {
         registerBlockItem(name, block);
         return Registry.register(Registries.BLOCK, new Identifier(BetaOrigins.MOD_ID, name), block);

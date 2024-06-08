@@ -66,6 +66,9 @@ public class ModItemGroups {
                         entries.add(ModItems.STONE_NETHERITE_SHOVEL);
                         entries.add(ModItems.STONE_NETHERITE_SWORD);
 
+                        entries.add(ModBlocks.STONE_LADDER);
+                        entries.add(ModBlocks.STONE_LEVER);
+                        entries.add(ModBlocks.STONE_TRIPWIRE_HOOK);
 
                     }).build());
 

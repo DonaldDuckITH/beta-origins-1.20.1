@@ -6,6 +6,7 @@ import net.donaldduckith.betaorigins.item.ModItems;
 import net.fabricmc.fabric.api.datagen.v1.FabricDataOutput;
 import net.fabricmc.fabric.api.datagen.v1.provider.FabricModelProvider;
 import net.minecraft.block.Block;
+import net.minecraft.block.Blocks;
 import net.minecraft.data.client.*;
 import net.minecraft.item.Item;
 import net.minecraft.item.Items;
@@ -32,6 +33,12 @@ public class ModModelProvider extends FabricModelProvider {
         blockStateModelGenerator.registerTorch(ModBlocks.STONE_SOUL_TORCH, ModBlocks.STONE_SOUL_WALL_TORCH);
         blockStateModelGenerator.registerTorch(ModBlocks.STONE_REDSTONE_TORCH, ModBlocks.STONE_REDSTONE_WALL_TORCH);
         blockStateModelGenerator.registerTorch(ModBlocks.STONE_REDSTONE_TORCH_OFF, ModBlocks.STONE_REDSTONE_WALL_TORCH_OFF);
+
+        blockStateModelGenerator.registerNorthDefaultHorizontalRotation(ModBlocks.STONE_LADDER);
+        blockStateModelGenerator.registerItemModel(ModBlocks.STONE_LADDER);
+        blockStateModelGenerator.registerItemModel(ModBlocks.STONE_LEVER);
+        blockStateModelGenerator.registerItemModel(ModBlocks.STONE_TRIPWIRE_HOOK);
+
     }
 
     @Override
